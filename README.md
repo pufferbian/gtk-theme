@@ -121,5 +121,6 @@ Public License
 
 Special Thanks to
 --------------
+ System76, developers of the Pop!_OS GTK+ Theme: https://github.com/pop-os/gtk-theme
  Nana-4, the developer of Materia.
  tista500 and the Adapta Theme Project: https://github.com/adapta-project/
