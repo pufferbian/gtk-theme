@@ -1,9 +1,11 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Pop
-Source: https://github.com/pop-os/gtk-theme
+Upstream-Name: Pufferbian
+Source: https://github.com/pufferbian/gtk-theme
 
 Files: *
-Copyright: 2019, System76, Inc.
+Copyright: 
+           2021, Kacper Zacharski
+           2019, System76, Inc.
            2017-2018, Canonical
            2009-2015, Red Hat, Inc.
            2009, Intel Corporation
