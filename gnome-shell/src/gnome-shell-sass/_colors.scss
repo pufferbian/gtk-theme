@@ -56,7 +56,7 @@ $hover_fg_color: lighten($selected_fg_color, .25);
 $active_fg_color: transparentize($selected_fg_color, .5);
 
 //Colors for certain widgets
-$entry_color: if($variant=='light', #FFAD00, #FBB86C);
+$entry_color: if($variant=='light', #0077ff, #6caafb);
 $close_button_color: mix($red, $orange, 50%);
 
 $panel_bg_color: darken(#2B2928, 3%);;
