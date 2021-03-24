@@ -15,3 +15,4 @@ src/gtk-2.0/gtkrc-light
 src/gtk-3.0/gtk-common/assets.svg
 build
 obj-*
+.DS_Store
