@@ -6,6 +6,6 @@ option('sounds', type: 'boolean', value: true, description:'build sounds compone
 option('sessions', type: 'boolean', value: false, description:'build sessions component')
 option('communitheme_compat', type: 'boolean', value: false, description:'build communitheme-compact')
 
-option('default', type: 'boolean', value: true, description:'build Pop gtk default variant')
-option('dark', type: 'boolean', value: true, description:'build Pop gtk dark variant')
-option('light', type: 'boolean', value: true, description:'build Pop gtk light variant')
+option('default', type: 'boolean', value: true, description:'build Pufferbian gtk default variant')
+option('dark', type: 'boolean', value: true, description:'build Pufferbian gtk dark variant')
+option('light', type: 'boolean', value: true, description:'build Pufferbian gtk light variant')
